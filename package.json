@@ -1,0 +1,16 @@
+{
+  "name": "limos",
+  "version": "1.0.0",
+  "description": "A command line tool for interacting with Discord",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliTheCoder/limos.git"
+  },
+  "author": "EliTheCoder",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/EliTheCoder/limos/issues"
+  },
+  "homepage": "https://github.com/EliTheCoder/limos#readme"
+}
